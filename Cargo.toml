@@ -1,0 +1,8 @@
+[package]
+name = "duel"
+version = "0.1.0"
+authors = ["wachr <ray.wach@nike.com>"]
+
+[dependencies]
+rusty_sword_arena = "1.0.0"
+impose = "0.2.0"
